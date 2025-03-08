@@ -1,13 +1,17 @@
-<h2 align="left">Good Morning 🌅<br>Good Afternoon 🌇<br>Good Night 🌃<br>How's going? 🤓</h2>
-
 ###
 
 <div align="center">
-  <a href="https://discord.gg/yMwaVzzUbv" target="_blank">
+  <a href="https://discord.gg/5zqes67H" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/lucasgpalves/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@tetsutaiga" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://lucasgpalves.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
