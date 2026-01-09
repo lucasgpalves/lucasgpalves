@@ -1,55 +1,40 @@
-###
+# Olá, eu sou o Lucas Alves! 🐧
 
-<div align="center">
-  <a href="https://discord.gg/5zqes67H" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/lucasgpalves/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@tetsutaiga" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://lucasgpalves.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+**Analista de Suporte Computacional | DevOps & SRE Enthusiast | Linux Specialist**
 
-###
+Sou apaixonado por entender como os bits se movem, desde o isolamento entre **User mode e Kernel mode** até a orquestração de clusters complexos em ambientes de **Alta Disponibilidade**. Atualmente, foco em transformar o "mundo das ideias" em infraestrutura resiliente e código seguro.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgpalves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🛠️ No que estou focado agora?
+- 🎓 **Certificações:** Estudando ativamente para a **LPIC-3 (305 - Virtualization and High Availability)** e **CKA**.
+- 🏗️ **Homelab:** Mantendo um ambiente laboratorial focado em **GitOps, Observabilidade e Segurança**.
+- 🛡️ **Cybersecurity:** Explorando conceitos de **Supply Chain Attacks**, **Pivoting** e integridade de binários para garantir deploys seguros.
+- 🎮 **Game Dev:** Projetando um sistema de RPG Plataforma/Metroidvania focado em mecânicas lógicas e arquitetura limpa.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-</div>
+---
 
-###
+### 🏗️ Projetos em Destaque
 
-<br clear="both">
+#### [🏠 homelab](https://github.com/lucasgpalves/homelab)
+Meu laboratório de caos. Aqui testo o deploy de stacks DevOps, automação com Ansible e monitoramento com Zabbix/Grafana. É onde a teoria da **Virtualização e Conteinerização** (KVM, Docker, k3s) encontra a prática.
 
-<img src="https://raw.githubusercontent.com/lucasgpalves/lucasgpalves/output/snake.svg" alt="Snake animation" />
+#### [⚔️ game-rpg-system](https://github.com/lucasgpalves/game-rpg-system)
+Estudo de **Python POO** aplicado a sistemas de RPG. Utilizo este projeto para exercitar conceitos de **Clean Code** e **Programação orientada a objetos**.
 
-###
+#### [🤖 ansible-awx-setup](https://github.com/lucasgpalves/ansible-awx-setup)
+Documentação da minha experiência realizando o deploy do AWX Operator sobre Kubernetes em servidor com escassez de recursos, focando em automação de escala.
+
+---
+
+### 🧰 Tech Stack & Ferramentas
+- **OS:** Linux (Debian/Ubuntu, RHEL/CentOS) - Foco em administração e segurança de Kernel.
+- **Infra:** Docker, Kubernetes (k3s), Ansible, Terraform.
+- **Linguagens:** Python (Automação/APIs) e C++ (Arduino/Embedded).
+
+---
+
+### 📬 Onde me encontrar?
+- [LinkedIn](https://www.linkedin.com/in/lucasgpalves/)
+
+> "Na lógica, não faz sentido um looping que não fecha. Eu busco fechar todos os loops através da automação."
