@@ -101,7 +101,7 @@ Em andamento: **LPIC-3 (305)** e **CKA**
 
 [Portfólio](https://lucasgpalves.github.io) · [LinkedIn](https://www.linkedin.com/in/lucasgpalves/) · [Email](mailto:alvez.lucas2702@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucasgpalves&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgpalves&layout=compact&theme=transparent&hide_border=true&title_color=0A66C2&text_color=333" height="150" alt="Top languages" />
+![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=lucasgpalves&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333&include_all_commits=true&count_private=true)
+![Top languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=lucasgpalves&layout=compact&theme=transparent&hide_border=true&title_color=0A66C2&text_color=333)
 
 </div>
